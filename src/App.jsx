@@ -66,7 +66,7 @@ const App = () => {
 
                             <div id='card' >
                                 <div>
-                                    <h2>Name =  <span id='name'></span> </h2>
+                                    <h2>Name : <span id='name'></span> </h2>
                                 </div>
                                 <div>
                                     <h2>User Info :- </h2>
