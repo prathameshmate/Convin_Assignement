@@ -58,7 +58,7 @@ const App = () => {
 
                             <div id='starting_Content'>
                                 {
-                                    (ans1 == true) ? <h2>API request is in progress...</h2> : <h2>Please Click On Any Button</h2>
+                                    (ans1 === true) ? <h2>API request is in progress...</h2> : <h2>Please Click On Any Button</h2>
                                 }
                             </div>
 
