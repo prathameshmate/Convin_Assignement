@@ -9,8 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 100vh; */
-    height:721px ;
+    height: 100vh;
     background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
 
 }
